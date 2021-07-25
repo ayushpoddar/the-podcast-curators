@@ -1,0 +1,18 @@
+baseURL: http://thepodcastcurators.com
+languageCode: en-us
+title: The Podcast Curators
+theme: PaperMod
+
+menu:
+  main:
+    - name: Categories
+      url: categories/
+
+params:
+  homeInfoParams:
+    Title: Hey There 👋🏼
+    Content: We recommend podcasts. Subscribe to [weekly newsletter](https://forms.gle/57xp5xDFav89hMMW9)
+
+  socialIcons:
+    - name: Instagram
+      url: https://www.instagram.com/thepodcastcurators
