@@ -2,7 +2,6 @@ baseURL:
 languageCode: en-us
 title: The Podcast Curators
 theme: PaperMod
-publishdir: docs
 
 menu:
   main:
