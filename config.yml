@@ -10,8 +10,8 @@ menu:
 
 params:
   homeInfoParams:
-    Title: Hey There 👋🏼
-    Content: We recommend podcasts. Subscribe to [weekly newsletter](https://forms.gle/57xp5xDFav89hMMW9)
+    Title: We recommend podcasts
+    Content: Every Monday, 3 podcasts. Subscribe to [weekly newsletter](https://forms.gle/57xp5xDFav89hMMW9)
 
   socialIcons:
     - name: Instagram
